@@ -1,4 +1,4 @@
-
+# commenting
 set arg [lindex $argv 0]
 set val(chan)           Channel/WirelessChannel    ;# channel type
 set val(prop)           Propagation/TwoRayGround   ;# radio-propagation model
